@@ -1,4 +1,4 @@
-# Robô detector de possíveis vítimas em uma ambiente de desastre 
+# Robô detector de possíveis vítimas em uma ambiente de desastres 
 
 # Descrição
   Robô desenvolvido em parceria da UFU com a Defesa Civil de Patos de Minas para o primeiro workshop de reduão de riscos de desastres do Alto Paranaíba e Nororeste Mineiro.
