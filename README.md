@@ -13,7 +13,7 @@
  
  # Autores 
  
- Rafael Pereira - xxxxx
- Otávio Augusto  - xxxxxxx
+ Rafael Pereira - https://www.linkedin.com/in/rafael-pereira-73bba9148/
+ Otávio Augusto  - https://github.com/OtaviodaCruz
  
    
