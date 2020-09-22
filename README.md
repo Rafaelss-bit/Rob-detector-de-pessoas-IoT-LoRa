@@ -1,17 +1,17 @@
-# Robô detector de possíveis vítimas em uma ambiente de desastres 
+# Robot detecting possible victims in a disaster environment
 
-# Descrição
-  Robô desenvolvido em parceria da UFU com a Defesa Civil de Patos de Minas para o primeiro workshop de reduão de riscos de desastres do Alto Paranaíba e Nororeste Mineiro.
-  O projeto consiste em um robô móvel capaz de detectar presença de pessoas e enviar a localização da mesma em tempo real para um servidor web. 
+# Description
+  Robot developed in partnership with UFU and the Civil Defense of Patos de Minas for the first disaster risk reduction workshop in Alto Paranaíba and Nororeste Mineiro.
+  The project consists of a mobile robot capable of detecting the presence of people and sending their location in real time to a web server.
   
- # Materiais Utilizados e Desenvolvimento
-   Foi utilizado um robo com rodas capaz de se locomover no ambiente de forma autônoma, para tal funcionalidade foi utilizado tres sensores ultrassônicos HC-SR04 no protótipo. 
- Para a detecção de presença de pessoas foi utilizado o sensor de temperatura digital MLX90614. A trasmissão das informações da temperatura e localização foi feita via LoRa
- utilizando o módulo LoRa/GPS Shield e para receber os dados foi utilizado um LoRa gateway LG01-P. Foi utilizado o servidor de rede The Things Network pra receber estes dados 
- e depois os mesmos eram encaminhados para o servidor de aplicação Cayenne para que o usuário tivesse acesso a um mapa para ver o posicionamento do robô e um ícone no qual
- emitia um alerta quando era detectado a presença de uma pessoa.
+ # Materials Used and Development
+   A robot with wheels capable of moving in the environment autonomously was used, for such functionality three ultrasonic sensors HC-SR04 were used in the prototype.
+ The MLX90614 digital temperature sensor was used to detect the presence of people. The transmission of temperature and location information was done via LoRa
+ using the LoRa / GPS Shield module and to receive the data a LoRa gateway LG01-P was used. The Things Network network server was used to receive this data
+ and then they were sent to the Cayenne application server so that the user had access to a map to see the robot’s position and an icon on which
+ issued an alert when the presence of a person was detected.
  
- # Autores 
+ # Authors
  
  Rafael Pereira - https://www.linkedin.com/in/rafael-pereira-73bba9148/
  Otávio Augusto  - https://github.com/OtaviodaCruz
